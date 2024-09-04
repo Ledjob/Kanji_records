@@ -1,0 +1,873 @@
+1	
+日
+nichi, jitsu
+ニチ, ジツ
+
+hi, -bi, -ka
+ひ, -び, -か
+
+day, sun, Japan, counter for days	N5
+2	
+一
+ichi
+イチ
+
+hito(tsu)
+ひと(つ)
+
+one	N5
+3	
+国
+koku
+コク
+
+kuni
+くに
+
+country	N5
+4	
+会
+kai
+カイ
+
+a(u)
+あ(う)
+
+meeting; meet	N4
+5	
+人
+jin, nin
+ジン、 ニン
+
+hito
+ひと
+
+person	N5
+6	
+年
+nen
+ネン
+
+toshi
+とし
+
+year, counter for years	N5
+7	
+大
+dai, tai
+ダイ、 タイ
+
+oo(kii)
+おお(きい)
+
+large, big	N5
+8	
+十
+juu
+ジュウ
+
+tou, to
+とお、 と
+
+ten, 10	N5
+9	
+二
+ni, ji
+ニ、 ジ
+
+futa(tsu)
+ふた(つ)
+
+two, 2	N5
+10	
+本
+hon
+ホン
+
+moto
+もと
+
+book, present, true, counter for long cylindrical things	N5
+11	
+中
+chuu
+チュウ
+
+naka, uchi, ata(ru)
+なか、 うち、 あた(る)
+
+in, inside, middle, mean, center	N5
+12	
+長
+chou
+チョウ
+
+naga(i), osa
+なが(い)、 おさ
+
+long, leader, superior, senior	N5
+13	
+出
+shutsu, sui
+シュツ、 スイ
+
+de(ru), da(su), i(deru)
+で(る)、 だ(す)、 い(でる)
+
+exit, leave, go out	N5
+14	
+三
+san
+サン
+
+mi(tsu)
+み(つ)
+
+three, 3	N5
+15	
+同
+dou
+ドウ
+
+onaji
+おな(じ)
+
+same, agree, equal	N4
+16	
+時
+ji
+ジ
+
+toki, doki
+とき、 -どき
+
+time, hour	N5
+17	
+政
+sei
+セイ
+
+matsurigoto
+まつりごと
+
+politics, government	N3
+18	
+事
+ji
+ジ
+
+koto
+こと
+
+matter, thing, fact, business, reason, possibly	N4
+19	
+自
+ji, shi
+ジ、 シ
+
+mizuka(ra)
+みずか(ら)
+
+oneself	N4
+20	
+行
+kou, gyou, an
+コウ、 ギョウ、 アン
+
+i(ku), yu(ku), okona(u)
+い(く)、 ゆ(く)、 おこな(う)
+
+going, journey, carry out, line, row	N5
+21	
+社
+sha
+シャ
+
+yashiro
+やしろ
+
+company, firm, office, association, shrine	N4
+22	
+見
+ken
+ケン
+
+mi(ru), mi(seru)
+み(る)、 み(せる)
+
+see, hopes, chances, idea, opinion, look at, visible	N5
+23	
+月
+getsu, gatsu
+ゲツ、 ガツ
+
+tsuki
+つき
+
+month, moon	N5
+24	
+分
+bun, fun, bu
+ブン、 フン、 ブ
+
+wa(keru)
+わ(ける)
+
+part, minute of time, understand	N5
+25	
+議
+gi
+ギ
+
+deliberation, consultation, debate	N3
+26	
+後
+go, kou
+ゴ、 コウ
+
+nochi, ushi(ro), ato
+のち、 うし(ろ)、 あと
+
+behind, back, later	N5
+27	
+前
+zen
+ゼン
+
+mae
+まえ
+
+in front, before	N5
+28	
+民
+min
+ミン
+
+tami
+たみ
+
+people, nation, subjects	N3
+29	
+生
+sei, shou
+セイ、 ショウ
+
+i(kiru), u(mu), o(u), ha(eru), nama
+い(きる)、 う(む)、 お(う)、 は(える)、 なま
+
+life, genuine, birth	N5
+30	
+連
+ren
+レン
+
+tsura(naru), tsu(reru)
+つら(なる)、つ(れる)
+
+take along, lead, join, connect	N3
+31	
+五
+go
+ゴ
+
+itsu(tsu)
+いつ(つ)
+
+five, 5	N5
+32	
+発
+hatsu, hotsu
+ハツ、 ホツ
+
+departure, discharge, emit, start from	N4
+33	
+間
+kan, ken
+カン、 ケン
+
+aida, ma, ai
+あいだ、 ま、 あい
+
+interval, space	N5
+34	
+対
+tai, tsui
+タイ、 ツイ
+
+opposite, even, equal, versus, anti-, compare	N3
+35	
+上
+jou, shou, shan
+ジョウ、 ショウ、 シャン
+
+ue, uwa, kami, a(geru), nobo(ru), tatematsu(ru)
+うえ、 うわ-、 かみ、 あ(げる)、 のぼ(る)、 たてまつ(る)
+
+above, up	N5
+36	
+部
+bu
+ブ
+
+section, bureau, dept, class, copy, part, portion	N3
+37	
+東
+tou
+トウ
+
+higashi
+ひがし
+
+east	N5
+38	
+者
+sha
+シャ
+
+mono
+もの
+
+someone, person	N4
+39	
+党
+tou
+トウ
+
+nakama, mura
+なかま、 むら
+
+party, faction, clique	N2
+40	
+地
+chi, ji
+チ、 ジ
+
+ground, earth	N4
+41	
+合
+gou, ga, ka
+ゴウ、 ガッ、 カッ
+
+a(u), ai
+あ(う)、あい
+
+fit, suit, join, 0.1	N3
+42	
+市
+shi
+シ
+
+ichi
+いち
+
+market, city, town	N3
+43	
+業
+gyou
+ギョウ
+
+waza
+わざ
+
+business, vocation, arts, performance	N4
+44	
+内
+nai
+ナイ
+
+uchi
+うち
+
+inside, within, between, among, house, home	N3
+45	
+相
+sou, shou
+ソウ、 ショウ
+
+ai
+あい
+
+inter-, mutual, together, each other, minister of state	N3
+46	
+方
+hou
+ホウ
+
+kata
+かた
+
+direction, person, alternative	N4
+47	
+四
+shi
+シ
+
+yo(tsu), yon
+よ(つ)、 よん
+
+four, 4	N5
+48	
+定
+tei, jou
+テイ、 ジョウ
+
+sada(meru)
+さだ(める)
+
+determine, fix, establish, decide	N3
+49	
+今
+kon, kin
+コン、 キン
+
+ima
+いま
+
+now; the present	N5
+50	
+回
+kai
+カイ
+
+mawa(su)
+まわ(す)
+
+-times, round, revolve, counter	N3
+51	
+新
+shin
+シン
+
+atara(shii), ara(ta)
+あたら(しい)、 あら(た)
+
+new	N4
+52	
+場
+jou
+ジョウ
+
+ba
+ば
+
+location, place	N4
+53	
+金
+kin, kon, gon
+キン、 コン、 ゴン
+
+kane, kana, gane
+かね、 かな-、 -がね
+
+gold	N5
+54	
+員
+in
+イン
+
+employee, member, number, the one in charge	N4
+55	
+九
+kyuu, ku
+キュウ、 ク
+
+kokono(tsu)
+ここの(つ)
+
+nine, 9	N5
+56	
+入
+nyuu
+ニュウ
+
+i(ru), hai(ru)
+い(る)、はい(る)
+
+enter, insert	N5
+57	
+選
+sen
+セン
+
+era(bu)
+えら(ぶ)
+
+elect, select, choose, prefer	N3
+58	
+立
+ritsu
+リツ
+
+ta(tsu)
+た(つ)
+
+stand up, rise	N4
+59	
+開
+kai
+カイ
+
+hira(ku), a(keru)
+ひら(く)、 あ(ける)
+
+open, unfold, unseal	N4
+60	
+手
+shu
+シュ
+
+te
+て
+
+hand	N4
+61	
+米
+bei, mai, meetoru
+ベイ、 マイ、 メエトル
+
+kome
+こめ
+
+rice, USA, meter	N3
+62	
+力
+ryoku, riki
+リョク、 リキ
+
+chikara
+ちから
+
+power, strength, strong, strain, bear up, exert	N4
+63	
+学
+gaku
+ガク
+
+mana(bu)
+まな(ぶ)
+
+study, learning, science	N5
+64	
+問
+mon
+モン
+
+to(u)
+と(う)
+
+question, ask, problem	N4
+65	
+高
+kou
+コウ
+
+taka(i)
+たか(い)
+
+tall, high, expensive	N5
+66	
+代
+dai
+ダイ
+
+ka(wari)
+か(わり)
+
+substitute, change, convert, replace, period	N4
+67	
+明
+mei, myou
+メイ、 ミョウ
+
+aka(rui)
+あか(るい)
+
+bright, light	N4
+68	
+実
+jitsu
+ジツ
+
+mi, mino(ru)
+み、みの(る)
+
+reality, truth	N3
+69	
+円
+en
+エン
+
+maru(i)
+まる(い)
+
+circle, yen, round	N5
+70	
+関
+kan
+カン
+
+seki, kaka(waru)
+せき、 かか(わる)
+
+connection, barrier, gateway, involve, concerning	N3
+71	
+決
+ketsu
+ケツ
+
+ki(meru)
+き(める)
+
+decide, fix, agree upon, appoint	N3
+72	
+子
+shi, su, tsu
+シ、 ス、 ツ
+
+ko, ne
+こ、 ね
+
+child	N5
+73	
+動
+dou
+ドウ
+
+ugo(ku)
+うご(く)
+
+move, motion, change	N4
+74	
+京
+kyou, kei, kin
+キョウ、 ケイ、 キン
+
+miyako
+みやこ
+
+capital	N4
+75	
+全
+zen
+ゼン
+
+matta(ku), sube(te)
+まった(く)、 すべ(て)
+
+whole, entire, all, complete, fulfill	N3
+76	
+目
+moku, boku
+モク、 ボク
+
+me
+め
+
+eye, class, look, insight, experience	N4
+77	
+表
+hyou
+ヒョウ
+
+omote, arawa(su)
+おもて、 あらわ(す)
+
+surface, table, chart, diagram	N3
+78	
+戦
+sen
+セン
+
+ikusa, tataka(u)
+いくさ、 たたか(う)
+
+war, battle, match	N3
+79	
+経
+kei
+ケイ
+
+he(ru), ta(tsu)
+へ(る)、 た(つ)
+
+longitude, pass thru, expire, warp	N3
+80	
+通
+tsuu
+ツウ
+
+too(ru), kayo(u)
+とお(る)、かよ(う)
+
+traffic, pass through, avenue, commute	N4
+81	
+外
+gai, ge
+ガイ、 ゲ
+
+soto, hoka, hazu-, to-
+そと、 ほか、 はず(す)、 と-
+
+outside	N5
+82	
+最
+sai
+サイ
+
+motto(mo)
+もっと(も)
+
+utmost, most, extreme	N3
+83	
+言
+gen, gon
+ゲン、 ゴン
+
+i(u), koto
+い（う）、 こと
+
+say, word	N4
+84	
+氏
+shi
+シ
+
+uji
+うじ
+
+family name, surname, clan	N1
+85	
+現
+gen
+ゲン
+
+arawa(reru), utsu(tsu)
+あらわ(れる)、 うつ(つ)
+
+present, existing, actual	N3
+86	
+理
+ri
+リ
+
+logic, arrangement, reason, justice, truth	N4
+87	
+調
+chou
+チョウ
+
+shira(beru), tono(u)
+しら(べる)、ととの(う)
+
+tune, tone, meter, prepare, investigate	N3
+88	
+体
+tai
+タイ
+
+karada
+からだ
+
+body, substance, object, reality	N4
+89	
+化
+ka, ke
+カ、 ケ
+
+ba(keru), fu(keru)
+ば(ける)、 ふ(ける)
+
+change, take the form of, influence, enchant, delude, -ization	N3
+90	
+田
+den
+デン
+
+ta
+た
+
+rice field, rice paddy	N4
+91	
+当
+tou
+トウ
+
+a(taru)
+あ(たる)
+
+hit, right, appropriate	N3
+92	
+八
+hachi
+ハチ
+
+ya(tsu), you
+や(つ)、 よう
+
+eight, 8	N5
+93	
+六
+roku
+ロク
+
+mu(tsu), mui
+む(つ)、 むい
+
+six, 6	N5
+94	
+約
+yaku
+ヤク
+
+tsuzu(maru)
+つづ(まる)
+
+promise, approximately, shrink	N3
+95	
+主
+shu
+シュ
+
+nushi, omo
+ぬし、 おも
+
+lord, chief, master, main thing, principal	N4
+96	
+題
+dai
+ダイ
+
+topic, subject	N4
+97	
+下
+ka, ge
+カ、 ゲ
+
+shita, shimo, moto, sa(geru), kuda(ru), o(rosu)
+した、 しも、 もと、 さ(げる)、 くだ(る)、 お(ろす)
+
+below, down, descend, give, low, inferior	N5
+98	
+首
+shu
+シュ
+
+kubi
+くび
+
+neck	N3
+99	
+意
+i
+イ
+
+idea, mind, heart, taste, thought	N4
+100	
+法
+hou
+ホウ
+
+nori
+のり
+
+method, law, rule, principle, model, system
